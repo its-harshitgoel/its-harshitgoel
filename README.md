@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-harshitgoel" alt="its-harshitgoel" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/chuckheaded" target="blank"><img src="https://img.shields.io/twitter/follow/chuckheaded?logo=twitter&style=for-the-badge" alt="chuckheaded" /></a> </p>
 
 - 🔭 I’m currently working on E-Commerce Website [E-Commerce Website](https://github.com/its-harshitgoel/E-Commerce-Website)
