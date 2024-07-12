@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/chuckheaded" target="blank"><img src="https://img.shields.io/twitter/follow/chuckheaded?logo=twitter&style=for-the-badge" alt="chuckheaded" /></a> </p>
 
-- 🔭 I’m currently working on E-Commerce Website [E-Commerce Website](https://github.com/its-harshitgoel/E-Commerce-Website)
+- 🔭 I’m currently working on [E-Commerce Website](https://github.com/its-harshitgoel/E-Commerce-Website)
 
 - 🌱 I’m currently learning **MERN, DSA, SQL**
 
