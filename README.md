@@ -1,76 +1,81 @@
 <h1 align="center">Hi 👋, I'm Harshit Goel</h1>
-<h3 align="center">On A Learning Phase</h3>
+<h3 align="center">On A Learning Phase 🚀</h3>
+
 <p align="center">
-  <a href="https://twitter.com/chuckheaded" target="blank">
-    <img src="https://img.shields.io/twitter/follow/chuckheaded?logo=twitter&style=for-the-badge" alt="chuckheaded" />
+  <a href="https://twitter.com/chuckheaded" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/chuckheaded?logo=twitter&style=for-the-badge" alt="chuckheaded"/>
   </a>
 </p>
 
-👨‍💻 Visit my Portfolio Webiste at https://harshitgoel.vercel.app/
+---
 
+- 👨‍💻 Visit my **[Portfolio Website](https://harshitgoel.vercel.app)**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+---
+
+<h3 align="center">Languages and Tools 🛠️</h3>
+
+<p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="70" height="70"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linux.org/" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.mysql.com/" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://nodejs.org" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://postman.com" >
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="70"/>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://reactjs.org/" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
   </a>
-  &nbsp;&nbsp;
+</p>
 
-  &nbsp;&nbsp;
+---
 
-</p>
+<h3 align="center">Let's Connect!</h3>
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-harshitgoel&show_icons=true&locale=en&layout=compact" alt="its-harshitgoel" />
-</p>
-<br>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=its-harshitgoel&show_icons=true&locale=en" alt="its-harshitgoel" />
-</p>
-<br>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-harshitgoel&" alt="its-harshitgoel" />
-</p>
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=its-harshitgoel&label=Profile%20views&color=0e75b6&style=flat" alt="its-harshitgoel" />
+  <a href="https://twitter.com/chuckheaded" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/its-harshit-goel/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/chuckheaded/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
