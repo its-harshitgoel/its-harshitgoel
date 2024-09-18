@@ -5,11 +5,8 @@
     <img src="https://img.shields.io/twitter/follow/chuckheaded?logo=twitter&style=for-the-badge" alt="chuckheaded" />
   </a>
 </p>
-🔭 I’m currently working on E-Commerce Website
 
-🌱 I’m currently learning MERN, DSA, SQL
-
-👨‍💻 All of my projects are available at https://harshitgoel.vercel.app/
+👨‍💻 Visit my Portfolio Webiste at https://harshitgoel.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
